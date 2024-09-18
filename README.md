@@ -32,8 +32,8 @@ Evaluate the model's performance on the validation set to assess its generalizat
 Use metrics like accuracy, precision, recall, and F1-score to evaluate the model's effectiveness.
 Visualization of Results (classification report and confusion matrix)
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/094794d0-c1c3-4c43-b26b-0d61c07d9e1a" alt="Confusion Matrix" width="45%" style="vertical-align: middle;" />
-  <img src="https://github.com/user-attachments/assets/72518584-337c-4dc9-a2ff-fc6dc2434081" alt="Precision Recall Table" width="45%" style="vertical-align: middle;" />
+  <img src="https://github.com/user-attachments/assets/094794d0-c1c3-4c43-b26b-0d61c07d9e1a" alt="Confusion Matrix" width="45%" height="400" style="vertical-align: middle;" />
+  <img src="https://github.com/user-attachments/assets/72518584-337c-4dc9-a2ff-fc6dc2434081" alt="Precision Recall Table" width="45%" height="400" style="vertical-align: middle;" />
 </p>
 
 
